@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPropertyToRent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PropertyToRent xsi:type="Studio">
+    <Name>Les Raisins, flat 5</Name>
+    <category>COUNTRY</category>
+    <Price>300</Price>
+    <Surface>30</Surface>
+  </PropertyToRent>
+  <PropertyToRent xsi:type="House">
+    <Name>Mon Abri Cotier</Name>
+    <category>COUNTRY</category>
+    <Price>1200</Price>
+    <Surface>300</Surface>
+  </PropertyToRent>
+  <PropertyToRent xsi:type="Mansion">
+    <Name>Les Grands Platanes</Name>
+    <category>URBAN</category>
+    <Price>3000</Price>
+    <Surface>1000</Surface>
+  </PropertyToRent>
+  <PropertyToRent xsi:type="Studio">
+    <Name>Les Hautes Grarennes, flat 56</Name>
+    <category>URBAN</category>
+    <Price>250</Price>
+    <Surface>25</Surface>
+  </PropertyToRent>
+  <PropertyToRent xsi:type="House">
+    <Name>La Brise</Name>
+    <category>SHORE</category>
+    <Price>960</Price>
+    <Surface>200</Surface>
+  </PropertyToRent>
+  <PropertyToRent xsi:type="House">
+    <Name>La Chaumiere</Name>
+    <category>COUNTRY</category>
+    <Price>800</Price>
+    <Surface>150</Surface>
+  </PropertyToRent>
+  <PropertyToRent xsi:type="Mansion">
+    <Name>Les Ratelieres</Name>
+    <category>SHORE</category>
+    <Price>2800</Price>
+    <Surface>1200</Surface>
+  </PropertyToRent>
+  <PropertyToRent xsi:type="Studio">
+    <Name>Les basses plaines</Name>
+    <category>URBAN</category>
+    <Price>700</Price>
+    <Surface>47</Surface>
+  </PropertyToRent>
+  <PropertyToRent xsi:type="Mansion">
+    <Name>La Lanterne</Name>
+    <category>URBAN</category>
+    <Price>3500</Price>
+    <Surface>600</Surface>
+  </PropertyToRent>
+  <PropertyToRent xsi:type="Studio">
+    <Name>La Courvieille, flat 34</Name>
+    <category>COUNTRY</category>
+    <Price>340</Price>
+    <Surface>26</Surface>
+  </PropertyToRent>
+  <PropertyToRent xsi:type="House">
+    <Name>Ici chez moi</Name>
+    <category>URBAN</category>
+    <Price>780</Price>
+    <Surface>230</Surface>
+  </PropertyToRent>
+  <PropertyToRent xsi:type="Studio">
+    <Name>Les Saules, flat 135</Name>
+    <category>SHORE</category>
+    <Price>390</Price>
+    <Surface>30</Surface>
+  </PropertyToRent>
+</ArrayOfPropertyToRent>

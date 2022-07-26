@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ShopItem> 
+    <Title>Tibetan Meditation</Title> 
+    <Category>BRAIN</Category>
+    <Price>140</Price>
+  </ShopItem>
+  <ShopItem> 
+    <Title>Pure-Oath</Title> 
+    <Category>STOMACH</Category>
+    <Price>40</Price>
+  </ShopItem>
+  <ShopItem> 
+    <Title>PeelMySkin</Title> 
+    <Category>BODY</Category>
+    <Price>20</Price>
+  </ShopItem>
+  <ShopItem> 
+    <Title>Quino-Ice</Title> 
+    <Category>STOMACH</Category>
+    <Price>15</Price>
+  </ShopItem>
+  <ShopItem> 
+    <Title>Mother Eath</Title> 
+    <Category>BRAIN</Category>
+    <Price>180</Price>
+  </ShopItem>
+  <ShopItem> 
+    <Title>Acupuncture Set</Title> 
+    <Category>BODY</Category>
+    <Price>193</Price>
+  </ShopItem>
+  <ShopItem> 
+    <Title>BirdSeeds</Title> 
+    <Category>STOMACH</Category>
+    <Price>11</Price>
+  </ShopItem>
+  <ShopItem> 
+    <Title>Poo Shampoo</Title> 
+    <Category>BODY</Category>
+    <Price>22</Price>
+  </ShopItem>
+  <ShopItem> 
+    <Title>Tofu</Title> 
+    <Category>STOMACH</Category>
+    <Price>9</Price>
+  </ShopItem>
+  <ShopItem> 
+    <Title>Refined Tofu</Title> 
+    <Category>STOMACH</Category>
+    <Price>20</Price>
+  </ShopItem>
+  <ShopItem> 
+    <Title>Mind Cristal</Title> 
+    <Category>BRAIN</Category>
+    <Price>130</Price>
+  </ShopItem>
+  <ShopItem> 
+    <Title>BeetRoot</Title> 
+    <Category>STOMACH</Category>
+    <Price>3</Price>
+  </ShopItem>
+</ArrayOfStudent>
